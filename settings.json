@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ridermcgg.aternos.me",
-    "port": 45843,
+    "ip": "kaizenmc.gg",
+    "port": 25565,
     "version": "1.8.9"
   },
   "position": {
